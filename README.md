@@ -37,6 +37,6 @@ For seeing how the app works, watch this video below (has some explanations):
 
 https://user-images.githubusercontent.com/79717589/129566967-5b81a2d3-3860-4516-9602-2783f1320658.mp4
 
-Click the button below to view the code and run the app:
+Click the link below to view the code and run the app:
 
-https://replit.com/join/owdwhgszia-anca21
+[See on Replit](https://replit.com/@Anca21/Photo-Editor-App?outputonly=1&lite=true)
